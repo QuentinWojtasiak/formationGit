@@ -2,7 +2,7 @@
 
 ## Commandes Git :
 
-1. init : Créer un repertoire Git vide ou en le réinitialise
+- init : Créer un repertoire Git vide ou en le réinitialise
 
 2. status : Affiche le status de la branche
 
@@ -16,7 +16,7 @@
 
 7. log : Affiche les logs
 
-8. checkout : Change de branches
+8. checkout : Change de branches ou de commit
 
 9. merge : Fusionne plusieurs branches entre elles
 
